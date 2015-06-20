@@ -1,6 +1,6 @@
 ## Caching the Mean of a Vector
 
-## 1st function: it creates a list that contains 4 member
+## 1st function: it creates a list that contains 4 member functions.
 
 makeCacheMatrix <- function(x = matrix()) {
     M <- NULL # to store the inversion
