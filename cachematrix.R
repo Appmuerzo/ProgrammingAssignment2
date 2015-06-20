@@ -17,7 +17,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## 2nd function: an assign, and if/else, set, and return
+## 2nd function: an assign, an if/else, set, and return
 
 cacheSolve <- function(x, ...) {
   Mat <- x$getI() # get the inversed
