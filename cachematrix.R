@@ -14,7 +14,7 @@ makeCacheMatrix <- function(x = matrix()) {
     getI <- function() M # return the inverted
     
     list(set = set, get = get, setI = setI, getI = getI) # return a list that contains functions
-  }
+}
 
 
 ## 2nd function: an assign, and if/else, set, and return
